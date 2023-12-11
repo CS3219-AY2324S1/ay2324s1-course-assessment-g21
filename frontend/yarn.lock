@@ -1239,10 +1239,10 @@
     superjson "^1.10.0"
     use-sync-external-store "^1.2.0"
 
-"@tanstack/react-query-next-experimental@^5.0.0-alpha.80":
-  version "5.0.0-alpha.80"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-query-next-experimental/-/react-query-next-experimental-5.0.0-alpha.80.tgz#8ecdb7251221c000b19872f7b92789dcd68ce2e8"
-  integrity sha512-J+rHrE+5BVEAoZVlvp5wryBdusKDBRrzysfpgOa4t6vcVRWHgzNlmWJFHelgipdHJrA3/4D6wSir8xmkp8ijtA==
+"@tanstack/react-query-next-experimental@^5.13.4":
+  version "5.13.4"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-query-next-experimental/-/react-query-next-experimental-5.13.4.tgz#d445e114cac4b567b61acd4ecc0e68e1e1c53409"
+  integrity sha512-y8fwGyyehkZf4shOJGOKvSK+u/tSkki51dHmhwG8HtlynWg7chcaT9yDveC1odRwKcheGHBmlx7Cz7MNn2DhXw==
 
 "@tanstack/react-query@^4.35.3":
   version "4.35.3"
